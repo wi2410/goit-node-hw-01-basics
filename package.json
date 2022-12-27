@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi2410/goit-node-hw-01-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi2410/goit-node-hw-01-basics/issues"
+  },
+  "homepage": "https://github.com/wi2410/goit-node-hw-01-basics#readme",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
